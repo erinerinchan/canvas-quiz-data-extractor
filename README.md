@@ -1,6 +1,6 @@
-# LANG1409 Quiz Workflow (Synthetic Portfolio Version)
+# Language Courses Quiz Workflow (Synthetic Portfolio Version)
 
-This project demonstrates a script-traceable workflow for preparing quiz data from library training workshops using fully synthetic data. It is designed for portfolio use and does not include confidential records.
+This project demonstrates a script-traceable workflow for preparing quiz data from HKUST language courses for science and engineering students using fully synthetic data. It is designed for portfolio use and does not include confidential records.
 
 Synthetic data modeled on a real analysis workflow - real data is confidential.
 
